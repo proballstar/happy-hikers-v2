@@ -1,5 +1,5 @@
 import { createTRPCRouter } from "~/server/api/trpc";
-import { listingsRouter } from "./routers/listings";
+import { listingsRouter } from "./routers/hikes";
 import { usersRouter } from "./routers/user";
 import { blogsRouter } from "./routers/blogs";
 
